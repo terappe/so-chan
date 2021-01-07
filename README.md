@@ -1,1 +1,1 @@
-# sochan
+# so-chan
